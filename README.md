@@ -6,6 +6,8 @@ For running our model you should first contact to https://faces.dmi.unibas.ch/bf
 
 The proposed model developed in both of keras and pytorch deep learning frameworks and get almost same result.
 
-in order to achive more transparency we put MobileFace implementation in this repository and calculate all metrics which is written in original paper. 
+in order to achive more transparency we put MobileFace implementation in this repository and calculate all metrics which is written in original paper.
+
+Introduced_model folder contain pytorch implementation of our model
 
 
