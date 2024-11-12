@@ -1,4 +1,4 @@
-# 3D-reconstruction
+# 3D-Reconstruction
 
 This repository contain official implementation of "A Deep Learning Embedded System for 3D Human Face Shape Reconstruction From a Single Image" 
 
